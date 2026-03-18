@@ -30,13 +30,13 @@ A clean, minimal Rainmeter skin that displays live stock prices with real-time c
 
 ## Installation
 
-1. Download the latest **`StockTicker.rmskin`** from the [Releases](../../releases) page.
+1. Download the latest **`TickrTiles.rmskin`** from the [Releases](../../releases) page.
 2. Double-click the `.rmskin` file — the Rainmeter Skin Installer will open automatically.
 3. Click **Install**. The skin will be copied to your skins folder and loaded automatically.
 
 That's it! The skin should appear on your desktop immediately after installing.
 
-> **Manual install (alternative):** If you prefer, you can clone this repo directly into your Rainmeter skins folder at `%USERPROFILE%\Documents\Rainmeter\Skins\StockTicker\`, then right-click the Rainmeter tray icon → **Refresh All** and load the skin from the Manage window.
+> **Manual install (alternative):** If you prefer, you can clone this repo directly into your Rainmeter skins folder at `%USERPROFILE%\Documents\Rainmeter\Skins\TickrTiles\`, then right-click the Rainmeter tray icon → **Refresh All** and load the skin from the Manage window.
 
 ---
 
@@ -124,7 +124,6 @@ StockTicker/
 ├── @Resources/
 │   └── Images/
 │       └── AAPL.png      # Optional ticker logos (32x32 PNG)
-└── README.md
 ```
 
 ---
